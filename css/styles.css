@@ -1,0 +1,137 @@
+body{
+    background: #ffffff;
+    padding: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.wrapper{
+    background: #f6f6fa;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1128px;
+    margin: 0 auto;
+}
+
+.main-content{
+    background: #ffffff;
+    padding: 0px 88px 0px 0px;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+.my-name {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 auto;
+    display: flex;
+   justify-content: center;
+}
+
+.my-profeshion {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 14px;
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.my-project-container{
+    padding-top: 5px;
+    padding-left: 40px;
+}
+
+
+.my-projects-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 5px;
+}
+
+.text{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+}
+
+
+.experience-container {
+    margin-bottom: 12px;
+}
+
+
+.experience-company {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+
+
+.experience-period {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #595959;
+    margin-bottom: 8px;
+}
+
+
+.experience-item {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #454545;
+    font-style: normal;
+    margin: 0 auto;
+}
+
+
+
+.sidebar {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.contacts-container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contacts-title {
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.contacts-item{
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+}
+
+
+.skills-list{
+    padding: 15px;
+}
+
+
+
